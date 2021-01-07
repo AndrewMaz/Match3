@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlueSprite
+  - CreamSprite
+  - GreenSprite
+  - LightBlueSprite
+  - OrangeSprite
+  - PinkSprite
+  - PurpleSprite
+  - Wall
+  - Piosonous Sprite
+  - Cold Sprite
+  - lvl01
+  - lvl02
+  - lvl03
+  - lvl04
+  - lvl05
+  - lvl06
+  - lvl07
+  - lvl08
+  - lvl09
+  - lvl10
+  - lvl11
+  - lvl12
+  - lvl13
+  - lvl14
+  - lvl15
+  - lvl16
+  - lvl17
+  - lvl18
+  - lvl19
+  - lvl20
+  - lvl21
+  - lvl22
+  - lvl23
+  - lvl24
+  - lvl25
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
